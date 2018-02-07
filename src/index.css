@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+Link,
+Link:focus,
+Link:hover {
+  text-decoration: none !important;
+}
+
+a,
+a:focus,
+a:hover {
+  text-decoration: none !important;
+}
+
+button,
+button:focus,
+button:hover {
+  text-decoration: none !important;
+}
